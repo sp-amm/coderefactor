@@ -32,11 +32,13 @@ body {
     font-size: 20px;   
 }
 
-.header div ul {
+/*removed div from between .header div ul*/
+.header ul {
     list-style-type: none;
 }
 
-.header div ul li {
+/*removed div from between .header div ul li*/
+.header ul li {
     display: inline-block;
     margin-left: 25px;
 }
